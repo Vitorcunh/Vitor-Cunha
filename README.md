@@ -13,6 +13,6 @@
 - 🏡&nbsp;<samp>I love being with my family and friends, they are everything to me.</samp>
 - 🎮&nbsp;<samp>I love playing video games in my free time</samp>
 - 🏋🏻&nbsp;<samp>Passionate about playing sports, especially bodybuilding</samp>
-- 👨‍🎓&nbsp;<samp>My academic life [__here!__](https://github.com/mupezzuol/list-of-courses-certifications)</samp>
+- 👨‍🎓&nbsp;<samp>My academic life [__here!__](https://github.com/Vitorcunh/Lista-de-cursos-certifica-es)</samp>
 
 ---
